@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2003
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Result-Rank-Service", "Result-Rank-Service\Result-Rank-Service.csproj", "{9FBD6654-7F84-4E49-878A-D6A4DD4D0A39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9FBD6654-7F84-4E49-878A-D6A4DD4D0A39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9FBD6654-7F84-4E49-878A-D6A4DD4D0A39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9FBD6654-7F84-4E49-878A-D6A4DD4D0A39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9FBD6654-7F84-4E49-878A-D6A4DD4D0A39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A234992-CD43-4DBE-8FC3-2E0256CE87D4}
+	EndGlobalSection
+EndGlobal
