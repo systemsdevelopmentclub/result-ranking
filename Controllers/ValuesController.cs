@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace result_rank.Controllers
 {
+    //TODO: This controller will be removed
     [Route("api/[controller]")]
     [ApiController]
     public class ValuesController : ControllerBase
